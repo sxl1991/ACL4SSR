@@ -688,7 +688,7 @@ DOMAIN-SUFFIX,guangzhuiyuan.com
 # Twitter
 DOMAIN-SUFFIX,ads-twitter.com
 DOMAIN-SUFFIX,ads.twitter.com
-DOMAIN-SUFFIX,analytics.twitter.com
+#DOMAIN-SUFFIX,analytics.twitter.com
 DOMAIN-SUFFIX,p.twitter.com
 DOMAIN-SUFFIX,scribe.twitter.com
 DOMAIN-SUFFIX,syndication-o.twitter.com

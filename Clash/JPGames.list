@@ -12,3 +12,4 @@ DOMAIN-KEYWORD,browndust2
 DOMAIN-SUFFIX,fleetlogd.com
 DOMAIN-SUFFIX,intlgame.com
 DOMAIN-SUFFIX,connproxy.truekex.com
+IP-CIDR,43.153.179.0/24,no-resolve

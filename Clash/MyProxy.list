@@ -11,3 +11,4 @@ DOMAIN-SUFFIX,ehgt.org
 DOMAIN-SUFFIX,hath.network
 DOMAIN-SUFFIX,johren.games
 DOMAIN-SUFFIX,johren.net
+IP-CIDR,210.140.92.138/27,no-resolve

@@ -15,3 +15,4 @@ DOMAIN-SUFFIX,fleetlogd.com
 DOMAIN-SUFFIX,intlgame.com
 DOMAIN-SUFFIX,connproxy.truekex.com
 IP-CIDR,43.153.128.0/18,no-resolve
+IP-CIDR,43.130.245.250/32,no-resolve
